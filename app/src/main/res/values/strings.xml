@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tanglish Pro</string>
+    <string name="keyboard_name">Tanglish Pro Keyboard</string>
+    <string name="settings_title">Tanglish Pro</string>
+    <string name="settings_intro">A private, offline keyboard for Tamil, English and Tanglish.</string>
+    <string name="enable_keyboard">1. Enable keyboard</string>
+    <string name="choose_keyboard">2. Choose Tanglish Pro</string>
+    <string name="theme_title">Keyboard color</string>
+    <string name="shortcuts_title">Text shortcuts</string>
+    <string name="shortcut_hint">Shortcut (e.g. omw)</string>
+    <string name="expansion_hint">Expansion (e.g. on my way)</string>
+    <string name="add_shortcut">Add shortcut</string>
+    <string name="privacy_title">Privacy</string>
+    <string name="privacy_text">Tanglish Pro has no Internet permission and includes no analytics. Translation runs on this device. Clipboard history and shortcuts are stored locally on your phone. Clipboard entries are saved only when you open Clipboard from the keyboard.</string>
+    <string name="usage_note">Open any app, tap a text field, then use the keyboard mode buttons. Tap Translate to convert the current Tanglish text.</string>
+</resources>
